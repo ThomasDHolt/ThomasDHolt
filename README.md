@@ -40,4 +40,4 @@
 
 <h3>GitHub Stats</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDHolt&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDHolt&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
