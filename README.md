@@ -6,15 +6,15 @@
 
 ---
 
-<h3>About Me</h3>
-<li>I am passionate about programming.</li>
+<h3>:sparkles: About Me</h3>
+<li>I am passionate about programming, I enjoy creating personal projects.</li>
 <li>Past experience working professionally with C#.</li>
 <li>I am skilled in <b>C#, C++, JavaScript, React</b> and <b>Tailwind</b>.</li>
 <li>In my spare time I enjoy painting miniature models, walking and playing games.</li>
 
 ---
 
-<h3>Skillset</h3>
+<h3>:computer: Skillset</h3>
 <div align=center>
   <p float="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="40" />
@@ -38,6 +38,31 @@
 
 ---
 
-<h3>GitHub Stats</h3>
+<h3>:chart_with_upwards_trend: GitHub Stats</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDHolt&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<h3>:rocket: Projects</h3>
+
+<details>
+  <summary>Web Projects</summary>
+  <ul>
+    <li><b>Cyber Cookie Clicker</b></li>
+    <ul>
+      <li><b>Description:</b> A Cookie Clicker recreation in the style of the game BitBurner.</li>
+      <li><b>Links:</b> <a href="https://github.com/ThomasDHolt/CookieClickerClone">GitHub</a> | <a href="https://thomasdholt.github.io/CookieClickerClone">Website</a></li>
+    </ul>
+  </ul>
+</details>
+
+---
+
+<h3>:clap: Contact Me</h3>
+
+<div id="badges" align=center>
+  <a href="https://www.linkedin.com/in/thomasholt9111">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
