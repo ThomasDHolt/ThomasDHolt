@@ -1,7 +1,7 @@
 <h1 align=center>Thomas Holt</h1>
 
 <p align=center>
-  <i>Passionate Programmer & Web Developer</i>
+  <i>Passionate Programmer, Game Developer & Web Developer</i>
 </p>
 
 ---
